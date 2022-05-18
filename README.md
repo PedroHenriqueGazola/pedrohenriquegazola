@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro Gazola, cursando ciêcias da computação.
+### Olá, eu sou o Pedro Gazola, cursando ciências da computação.
 
 <!--
 **PedroHenriqueGazola/pedrohenriquegazola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
