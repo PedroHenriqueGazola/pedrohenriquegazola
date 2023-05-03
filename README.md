@@ -1,4 +1,4 @@
-### Desenvolvedor Web Full Stack - Javascript | Typescript | NodeJS | ReactJS | PostegreSQL
+### Desenvolvedor Full Stack - Javascript | Typescript | NodeJS | ReactJS | Angular | Ionic | PostegreSQL
 
 <!--
 **PedroHenriqueGazola/pedrohenriquegazola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
