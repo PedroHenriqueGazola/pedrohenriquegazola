@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=190&section=header&text=Pedro%20Gazola&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Tech%20Lead%20%40%20Field%20Control&descSize=18&descAlignY=58" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=APIs+GraphQL+%2B+Apollo+Federation;Servidores+MCP+e+agentes+com+Claude;Integra%C3%A7%C3%B5es+que+n%C3%A3o+quebram+de+madrugada;Liderando+time+de+produto+em+campo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=APIs+GraphQL+%2B+Apollo+Federation;Servidores+MCP+e+agentes+com+Claude;Integra%C3%A7%C3%B5es+que+n%C3%A3o+quebram+de+madrugada;Liderando+o+time+do+produto+FSM" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ### Sobre mim
 
-Sou **Tech Lead na [Field Control](https://fieldcontrol.com.br)**, plataforma de gestão de serviços em campo usada por empresas de manutenção, instalação e assistência técnica. Lidero o time que cuida da API GraphQL, das integrações com sistemas de terceiros, do painel web e do app mobile.
+Sou **Tech Lead na [Field Control](https://fieldcontrol.com.br)**, plataforma de gestão de serviços em campo usada por empresas de manutenção, instalação e assistência técnica. Lidero o time responsável por todo o produto **FSM (Field Service Management)**, definindo arquitetura, prioridades técnicas e como a gente entrega, do backend ao app que roda no bolso do técnico.
 
 Gosto de software previsível: código que se explica sozinho, mudanças pequenas e fáceis de revisar, e sistemas que dá pra entender às 3 da manhã.
 
