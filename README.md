@@ -33,17 +33,11 @@ const pedro = {
 };
 ```
 
-### 🔭 Agora
-
-- 🧩 Evoluindo a API do Field Control com **Apollo Federation e Connectors**
-- 🤖 Construindo os **agentes de IA do produto** com **Strands Agents** no **Bedrock AgentCore**: multi-agent, RAG e tools via **MCP**
-- 📱 Mantendo o app de campo em **Angular + Ionic/Capacitor**
-
 ### 📌 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/PedroHenriqueGazola/ClaudeGauge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueGazola&repo=ClaudeGauge&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/PedroHenriqueGazola/TechAssistAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueGazola&repo=TechAssistAI&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/PedroHenriqueGazola/ClaudeGauge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueGazola&repo=ClaudeGauge&theme=tokyonight&hide_border=true&description_lines_count=2" /></a>
+  <a href="https://github.com/PedroHenriqueGazola/TechAssistAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueGazola&repo=TechAssistAI&theme=tokyonight&hide_border=true&description_lines_count=2" /></a>
 </div>
 
 ### 🛠️ Stack
