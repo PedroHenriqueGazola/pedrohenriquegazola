@@ -22,8 +22,13 @@ Gosto de software previsível: código que se explica sozinho, mudanças pequena
 const pedro = {
   role: "Tech Lead @ Field Control",
   location: "São José do Rio Preto, SP",
-  dayToDay: ["GraphQL", "Apollo Federation", "Node.js", "TypeScript", "PostgreSQL"],
-  lately: ["MCP servers", "AI agents", "RAG", "Claude Code"],
+  dayToDay: {
+    backend: ["Node.js", "TypeScript", "GraphQL", "Apollo Federation", "PostgreSQL"],
+    frontend: ["Angular", "React"],
+    mobile: ["Ionic", "Capacitor"],
+    cloud: ["AWS", "Docker"],
+  },
+  lately: ["Strands Agents", "Bedrock AgentCore", "MCP servers", "RAG", "Claude Code"],
   sideQuests: ["Swift/SwiftUI no macOS", "Three.js"],
 };
 ```
@@ -31,7 +36,7 @@ const pedro = {
 ### 🔭 Agora
 
 - 🧩 Evoluindo a API do Field Control com **Apollo Federation e Connectors**
-- 🤖 Construindo **servidores MCP e agentes** que deixam o produto (e o time) conversarem com IA
+- 🤖 Construindo os **agentes de IA do produto** com **Strands Agents** no **Bedrock AgentCore**: multi-agent, RAG e tools via **MCP**
 - 📱 Mantendo o app de campo em **Angular + Ionic/Capacitor**
 
 ### 📌 Projetos em destaque
